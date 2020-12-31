@@ -1,3 +1,8 @@
+# Created a small React App with recipe api
+
+![recipe-app-example](https://user-images.githubusercontent.com/33283405/103387331-50f2b300-4b03-11eb-8e8b-1ef431231444.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
